@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Startup HTML5/Bootstrap Template</title>
+	<title>SwitchCar - Get Going</title>
 
 	<meta name="description" content="Design - is a Premium HTML5 Responsive Templeate by Graygrids Team.">
 
@@ -321,7 +321,7 @@ SwitchCar is the India's premier peer-to-peer car rental market place. We let ow
 					<div class="col-sm-6 col-md-3 wow flipInY" data-wow-offset="10" data-wow-delay="0.6s">
 						<div class="item-square">
 							<div class="face">
-								<img src="assets/img/team-member/team-03.jpg" alt="">
+								<img src="assets/img/team-member/team_04.jpg" alt="">
 								<div class="overlay"></div>
 							</div>
 							<div class="content active">
